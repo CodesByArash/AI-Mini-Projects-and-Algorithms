@@ -1,0 +1,13 @@
+__pycache__
+checkpoints
+<<<<<<< HEAD
+runs
+.idea
+=======
+docs
+/images/onehot.png
+/images/imvectorkiank.png
+runs
+mlp.ipynb
+.idea
+>>>>>>> 7b413a59ab95f07c41e7e6b4b4d149291727d6c8
